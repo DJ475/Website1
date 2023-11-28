@@ -1,0 +1,46 @@
+.back_ground
+{
+    background-color: purple;
+}
+
+.list
+{
+    color: azure;
+    list-style: none;
+}
+
+.nav_bar
+{
+    display: inline;
+    position: relative;
+    right: 22px;
+}
+
+.nav_content
+{
+    border-color: wheat;
+    border-style: solid;
+    border-width: 3px;
+    margin: 2px;
+    padding: 10px;
+    color: black;
+}
+
+a:hover
+{
+    color: blue;
+}
+
+.title_letters
+{
+    position: relative;
+    text-align: center;
+}
+
+#nav_outline
+{
+    border-color: black;
+    border-style: dashed;
+    border-width: 2px;
+    padding: 50px;
+}
