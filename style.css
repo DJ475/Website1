@@ -44,3 +44,12 @@ a:hover
     border-width: 2px;
     padding: 50px;
 }
+
+#credits_text
+{
+    width: 740px;
+    height: 400px;
+
+    text-align: center;
+
+}
