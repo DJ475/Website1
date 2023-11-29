@@ -51,5 +51,13 @@ a:hover
     height: 400px;
 
     text-align: center;
+}
 
+.move_img1
+{
+    position: relative;
+    left: 365px;
+    bottom: 80px;
+    margin: 5px;
+    padding: -200px;
 }
