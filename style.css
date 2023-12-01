@@ -1,6 +1,6 @@
 .back_ground
 {
-    background-color: purple;
+    background-image: url("th2.jpg");
 }
 
 .list
@@ -37,6 +37,11 @@ a:hover
     text-align: center;
 }
 
+#color
+{
+    color: aliceblue;
+}
+
 #nav_outline
 {
     border-color: black;
@@ -60,4 +65,52 @@ a:hover
     bottom: 80px;
     margin: 5px;
     padding: -200px;
+}
+
+#color_p
+{
+    color: whitesmoke;
+}
+
+a:visited
+{
+    color: white;
+}
+
+a:hover
+{
+    color: green;
+}
+
+#move
+{
+    position: relative;
+    text-align: center;
+}
+
+#section1
+{
+    background: brown
+}
+
+#section2
+{
+    background: black;
+}
+
+#section3
+{
+    background: rebeccapurple;
+}
+
+#section4
+{
+    background: blue;
+}
+
+#img1_pos
+{
+    position: absolute;
+    /* left: 500px;
+    bottom: 100px; */
 }
