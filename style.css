@@ -111,6 +111,10 @@ a:hover
 #img1_pos
 {
     position: absolute;
-    /* left: 500px;
-    bottom: 100px; */
+}
+
+#img_move
+{
+    position: relative;
+    left: 300px;
 }
